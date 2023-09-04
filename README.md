@@ -30,6 +30,7 @@ The Crypto Data Retrieval and Visualization project is designed to fetch real-ti
 
 - **User Interface (Optional)**: Build a user interface within Power BI for an enhanced user experience.
 
+- **Testing the API Endpoint with Postman**: To ensure data accuracy and availability, you can test the API endpoint using Postman.
 ---
 
 ## Prerequisites
