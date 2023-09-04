@@ -1,19 +1,43 @@
-# Crypto Website API Pull using Python
+# Crypto Data Retrieval and Visualization
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Server Setup](#server-setup)
+- [Connecting to Power BI](#connecting-to-power-bi)
+- [User Interface (Optional)](#user-interface-optional)
+- [Documentation and Maintenance](#documentation-and-maintenance)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
 
 ## Overview
 
-This Python script fetches real-time cryptocurrency data from the CoinMarketCap API, supporting up to 5000 cryptocurrencies, and converting values to Indian Rupees (INR). It also implements a systematic data storage approach where each day's data is saved in a separate Excel file, ensuring continuous collection and storage of the most current cryptocurrency data.
+The Crypto Data Retrieval and Visualization project is designed to fetch real-time cryptocurrency data from the CoinMarketCap API, store it on a server, and connect it to a powerful visualization tool like Power BI. This comprehensive solution enables you to analyze cryptocurrency trends, track prices, and gain insights for informed investment decisions.
+
+### Features
+
+- **Data Retrieval**: Fetch real-time cryptocurrency data for up to 5000 cryptocurrencies and convert values to Indian Rupees (INR) using the CoinMarketCap API.
+
+- **Server Storage**: Store cryptocurrency data on a server, allowing for historical data retrieval and analysis.
+
+- **Power BI Integration**: Connect the server to Power BI for creating interactive and customizable visualizations.
+
+- **User Interface (Optional)**: Build a user interface within Power BI for an enhanced user experience.
+
+---
 
 ## Prerequisites
 
-Before running the script, make sure you have the following prerequisites:
+Before getting started, ensure you have the following prerequisites:
 
-- Python 3.x installed on your machine.
-- Required Python libraries installed (`requests`, `pandas`, and `json`).
+- **Python 3.x**: Install Python 3.x on your local machine.
 
-## Usage
+- **Required Libraries**: Install the required Python libraries using pip:
 
-1. Clone this repository to your local machine:
-
-   ```shell
-   git clone https://github.com/your-username/crypto-website-api.git
+  ```shell
+  pip install requests pandas
