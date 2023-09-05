@@ -5,15 +5,6 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Server Setup](#server-setup)
-- [Connecting to Power BI](#connecting-to-power-bi)
-- [User Interface (Optional)](#user-interface-optional)
-- [Documentation and Maintenance](#documentation-and-maintenance)
-- [Contributing](#contributing)
-- [License](#license)
-- [Testing the API Endpoint with Postman](#testing-the-api-endpoint-with-postman) <!-- New section -->
-
 ---
 
 ## Overview
