@@ -17,9 +17,9 @@ The Crypto Data Retrieval and Visualization project is designed to fetch real-ti
 
 - **Server Storage**: Store cryptocurrency data on a server, allowing for historical data retrieval and analysis.
 
-- **Power BI Integration**: Connect the server to Power BI for creating interactive and customizable visualizations.
+- **Power BI Integration**: Connect the server to Power BI for creating interactive and customizable visualizations.(Pending to implement)
 
-- **User Interface (Optional)**: Build a user interface within Power BI for an enhanced user experience.
+- **User Interface (Optional)**: Build a user interface within Power BI for an enhanced user experience.(Pending to implement)
 
 - **Testing the API Endpoint with Postman**: To ensure data accuracy and availability, you can test the API endpoint using Postman.
 ---
