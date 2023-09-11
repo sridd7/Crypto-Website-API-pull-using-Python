@@ -9,7 +9,7 @@
 
 ## Overview
 
-The Crypto Data Retrieval and Visualization project is designed to fetch real-time cryptocurrency data from the CoinMarketCap API, store it on a server, and connect it to a powerful visualization tool like Power BI. This comprehensive solution enables you to analyze cryptocurrency trends, track prices, and gain insights for informed investment decisions.
+The Crypto Data Retrieval project is designed to fetch real-time cryptocurrency data from the CoinMarketCap API, store it on a server, and connect it to a powerful visualization tool like Power BI. This comprehensive solution enables you to analyze cryptocurrency trends, track prices, and gain insights for informed investment decisions.
 
 ### Features
 
