@@ -1,4 +1,4 @@
-# Crypto Data Retrieval and Visualization
+# Crypto Data Retrieval
 
 ## Table of Contents
 
